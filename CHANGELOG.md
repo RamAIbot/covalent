@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [UNRELEASED]
 
+### Added
+
+- Reusable JavaScript action to parse changelog and update version
+
 ### Operations
 
 - Updating codeowners to establish engineering & psiog ownership
@@ -14,10 +18,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Docs
 
 - Added new tutorial: Training quantum embedding kernels for classification.
-
-### Added
-
-- Reusable JavaScript action to parse changelog and update version
 
 ## [0.108.0] - 2022-06-08
 
